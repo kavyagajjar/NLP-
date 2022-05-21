@@ -1,6 +1,0 @@
-ID-1	I loved the hotel a lot	1
-ID-2	I hated the hotel	2
-ID-3	The hotel was lovely	1
-ID-4	I loved the hotel a lot	2
-ID-5	I hated the hotel	1
-ID-6	The hotel was lovely	0

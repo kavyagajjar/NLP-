@@ -1,0 +1,8 @@
+ID-1	The hotel was great	2
+ID-2	The hotel was not liked by me	0
+ID-3	I loved the hotel	1
+ID-4	I hated the hotel	2
+ID-5	The hotel was great	0
+ID-6	The hotel was not liked by me	2
+ID-7	I loved the hotel	2
+ID-8	I hated the hotel	0
